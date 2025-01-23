@@ -12,4 +12,6 @@ How to use the extension
 6. now go the folder from the .zip that you extracted
 7. go to the root of the folder(where the manifest.json, popup.js and popup.html are) and then open the folder
 8. now you should see that you installed the extension
-9. if something doesnt works like the extension not installing idk why but ask me 
+9. if something doesnt works like the extension not installing idk why but ask me at the issues tab
+
+ask me in the issues tab if you want me to add a game
