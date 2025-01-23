@@ -5,7 +5,7 @@ The extension works by opening a website in an iframe.
 How to use the extension
 
 1. click on the green code button
-2. download the zip 
+2. click on download zip
 3. extract the .zip. Now you should have a folder named the same as the .zip
 4. go to your browsers extensions page(chrome://extensions/ for chrome, edge://extensions/ for edge, etc)
 5. there should be a developer mode toggle, turn it on
