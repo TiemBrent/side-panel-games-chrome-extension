@@ -23,3 +23,4 @@ ask me in the issues tab if you want me to add a game
 1. resizable ui
 2. bugfixes
 3. maybe auto-update
+4. more games
